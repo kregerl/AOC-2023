@@ -2,8 +2,8 @@ use std::{collections::HashMap, iter::once};
 
 fn main() {
     let input = include_str!("../input.txt");
-    part1(input);
-    part2(input);
+    part1(input); // 7407
+    part2(input); // 30568243604962
 }
 
 fn part1(input: &str) {
