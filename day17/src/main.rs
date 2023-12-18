@@ -3,7 +3,7 @@ use std::{cmp::Reverse, collections::BinaryHeap};
 fn main() {
     let input = include_str!("../input.txt");
     part1(input); // 851
-    part2(input);
+    part2(input); // 982
 }
 
 fn part1(input: &str) {
