@@ -21,3 +21,7 @@
 - [x] Day 19
 - [x] Day 20
 - [x] Day 21
+- [x] Day 22
+- [x] Day 23
+- [x] Day 24
+- [x] Day 25
